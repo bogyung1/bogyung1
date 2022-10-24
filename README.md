@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=60268D&height=280&section=header&text=BOGYUNG KIM&fontSize=60" />
-</p>
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bogyung1)](https://solved.ac/bogyung1)
 <!--
